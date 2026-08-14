@@ -1,1 +1,1 @@
-Monitoring cloud environments through SIEM to detect, investigate, and respond to cloud-based threats.
+Building, tuning, and scaling effective detections based on attacker behavior, TTPs, automation, and AI.
